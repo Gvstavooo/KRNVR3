@@ -16,4 +16,5 @@ Dei início do projeto. Ele possui atualmente apenas um cabeçalho bem simples, 
 Creating a webpage for a non existing techwear brand.
 
 07/04:
+
 I started the project. It currently only has a very simple header with a public domain logo.
