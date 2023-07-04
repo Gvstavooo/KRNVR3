@@ -3,8 +3,7 @@
 
 
 
-PT-BR:
-# KRNVR3
+# KRNVR3 PT-BR:
 Criando uma pagina web para uma marca de techwear ficticia.
 
 04/07:
@@ -13,8 +12,7 @@ Dei início do projeto. Ele possui atualmente apenas um cabeçalho bem simples, 
 
 
 
-ENG:
-# KRNVR3
+# KRNVR3 ENG:
 Creating a webpage for a non existing techwear brand.
 
 07/04:
