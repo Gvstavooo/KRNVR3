@@ -37,14 +37,12 @@ header{
 header img{
     max-width: 5rem;
     margin-top: 0.1rem;
-    border-radius: 50%;
 }
 
 .navegacao{
     display: flex;
     margin-top: 2rem;
 }
-
 .navegacao a{
     color: var(--txt-color);
     font-size: var(--p-font);
@@ -53,7 +51,6 @@ header img{
     transition: a .55s ease;
     text-decoration: none;
 }
-
 .navegacao a:hover{
     color: #71797E;
 }
@@ -85,6 +82,7 @@ header img{
 
 .home img{
     max-width: 540px;
+    border-radius: 30%;
 }
 .home__text{
     display: flex;
