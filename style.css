@@ -44,6 +44,7 @@ header img{
     display: flex;
     margin-top: 2rem;
 }
+
 .navegacao a{
     color: var(--txt-color);
     font-size: var(--p-font);
@@ -51,4 +52,49 @@ header img{
     margin: 0 30px;
     transition: a .55s ease;
     text-decoration: none;
+}
+
+.navegacao a:hover{
+    color: #71797E;
+}
+
+.banner__icons{
+    display: flex;
+    align-items: center;
+}
+
+.banner__icons i{
+    margin-right: 25px;
+    font-size: 28px;
+    cursor: pointer;
+    transition: all .5s ease;
+    border-top: 4px;
+}
+
+.banner__icons i:hover{
+    transform: scale(1.2);
+    color: #71797E;
+}
+
+.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home img{
+    max-width: 540px;
+}
+.home__text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.home__text p{
+    width: 400px;
+    word-break: normal;
+    font-family: 'Signika negative', sans-serif;
+    font-weight: 600;
 }
